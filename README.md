@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-This will open your default web browser and launch the application. The app is now accessible at http://localhost:5000/.
+The app is now accessible at http://localhost:5000/.
 
 
 ## Additional Instructions
