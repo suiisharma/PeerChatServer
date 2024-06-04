@@ -46,9 +46,3 @@ PORT=
 ```
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/725z2rf/Screenshot-2024-06-04-170928.png)
-
-![App Screenshot](https://i.ibb.co/DVL5VCN/Screenshot-2024-06-04-171025.png)
-
